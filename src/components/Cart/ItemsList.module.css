@@ -1,0 +1,51 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid rgba(224, 121, 3, 0.884);
+    width: 100%;
+    margin-right: 2rem;
+}
+.span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100px;
+    margin-top: .3rem;
+    margin-bottom: .4rem;
+}
+
+.name{
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: .3rem;
+}
+.price{
+    color:rgba(224, 121, 3, 0.884);
+}
+.amount{
+    padding: .1rem .3rem;
+    border: 1px solid rgba(0, 0, 0, 0.541);
+    border-radius: 5px;
+    font-size: .7rem;
+}
+.add{
+    padding: .2rem 1rem;
+    background-color: rgba(224, 121, 3, 0.884);
+    margin-left: .4rem;
+    margin-right: 1rem;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-radius: 20px;
+}
+.remove{
+    padding: .2rem 1.1rem;
+    background-color: rgba(224, 121, 3, 0.884);   
+    margin-right: .4rem;
+    border: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border-radius: 20px;
+}

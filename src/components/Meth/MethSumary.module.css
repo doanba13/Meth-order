@@ -1,0 +1,20 @@
+.MethSumary{
+    padding: 1rem 2rem;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(21, 26, 26);
+    border-radius: 20px;
+    z-index: 1;
+    box-shadow: 0 3px 9px rgba(0, 0, 0, 0.55);
+    text-align: center  ;
+}
+
+.MethSumary p{
+    color: white;
+}
+.MethSumary h1{
+    color: white;
+}

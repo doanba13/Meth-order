@@ -1,0 +1,20 @@
+.name{
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+.description{
+    font-style: italic;
+    font-weight: 400;
+    opacity: 75%;
+}
+.price {
+    font-size: 1rem;
+    font-weight:500;
+    color: rgb(221, 106, 12);
+}
+.border{
+    border-bottom: 1px solid gray;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
